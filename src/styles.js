@@ -23,7 +23,7 @@ export const mobileNavbarDisplay = {
     xs: "flex !important",
     md: "none !important",
   },
-  padding: "1.2rem",
+  padding: "1.6rem 1.2rem",
 };
 
 export const hamburgerMenuStyles = {
