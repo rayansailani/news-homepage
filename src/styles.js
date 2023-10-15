@@ -11,6 +11,15 @@ export const navBarContainer = {
   },
 };
 
+export const mainContentContainerPadding = {
+  padding: {
+    md: "0rem 6rem",
+    sm: "0rem 2rem",
+  },
+  margin: 0,
+  marginBottom: '2rem'
+}
+
 export const desktopNavbarDisplay = {
   display: {
     md: "block !important",
@@ -44,3 +53,15 @@ export const drawerCustomClassStyles = {
     padding: "0.2rem 1rem",
   },
 };
+
+export const textContentPadding = {
+  padding:'3rem',
+  paddingLeft: '0rem'
+}
+
+export const readMoreTextButton = {
+  padding: "1rem 3rem",
+  background: "hsl(5, 85%, 63%)",
+  borderRadius: "0",
+  letterSpacing: '6px !important'
+}

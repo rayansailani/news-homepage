@@ -12,7 +12,7 @@ const theme =  createTheme({
     fontFamily: 'Inter, sans-serif'
   },
   palette : {
-    primary : { main: "hsl(233, 8%, 79%)" },
+    primary : { main: "hsl(236, 13%, 42%)" },
   }
 });
 root.render(
